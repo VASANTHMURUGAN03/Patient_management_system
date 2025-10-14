@@ -1,0 +1,4 @@
+### GET request to patient entity
+GET http://localhost:4000/patients/getAllPatients
+
+###

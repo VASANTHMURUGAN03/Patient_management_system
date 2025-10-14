@@ -1,0 +1,14 @@
+### update request to patient entity
+PUT http://localhost:4000/patients/updatePatient/123e4567-e89b-12d3-a456-426614174000
+Content-Type: application/json
+
+{
+
+    "name": "Vasanth M",
+    "email": "vasanth34@gamil.com",
+    "address": "123 Main St, Springfield",
+    "dateOfBirth": "1985-06-15"
+
+  }
+
+###
